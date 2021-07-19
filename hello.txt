@@ -13,5 +13,5 @@ hello git!
 hello git!
 modify!!!
 third modify!
-hot-fix modify!
 master test!
+hot-fix modify! hot-fix test
